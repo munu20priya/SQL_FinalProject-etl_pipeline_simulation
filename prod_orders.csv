@@ -1,0 +1,4 @@
+"order_id";"customer_id";"product";"amount";"order_date"
+201;101;"Laptop";50000.0;"2025-09-07"
+1001;1;"Laptop";1200.0;"2023-01-12"
+1002;2;"Mouse";20.0;"2023-01-17"

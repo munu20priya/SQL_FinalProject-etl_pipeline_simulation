@@ -1,0 +1,6 @@
+"customer_id";"customer_name";"email";"signup_date"
+1;"Alice Smith";"alice@gmail.com";"2023-01-10"
+2;"Bob Jones";"bobjones@gmail.com";"2023-01-15"
+3;"Unknown";"charlie@gmail.com";"2023-02-01"
+4;"David Lee";"no_email@dummy.com";"2023-03-01"
+101;"Unknown";"no_email@dummy.com";""

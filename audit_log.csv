@@ -1,0 +1,4 @@
+"log_id";"table_name";"rows_inserted";"load_date"
+1;"prod_customers";4;"2025-09-07 13:47:09"
+2;"prod_orders";2;"2025-09-07 13:47:10"
+3;"prod_orders";1;"2025-09-07 13:52:38"
