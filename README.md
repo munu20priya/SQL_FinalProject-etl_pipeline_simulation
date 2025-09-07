@@ -1,5 +1,4 @@
 # SQL_FinalProject-etl_pipeline_simulation
-
 ## Objective
 -- Simulate ETL (Extract, Transform, Load) with MySQL Workbench.
 ## Steps
